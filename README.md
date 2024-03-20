@@ -1,4 +1,14 @@
-### Hi there 👋
+## <center> Hi 👋 I'm Yusseno </center>
+#### <center> Software Engineer | Backend Developer | Frontend Developer | Development dan Operation </center>
+
+<center> I'm a software engineer who specializes in building and sometimes designing websites. </center>
+<center>
+<a href="#">
+    <img src="png/devto.png" alt="dev.to" style="vertical-align:top; margin:6px 4px">
+</a>
+</center>
+
+
 
 <!--
 **yusseno/yusseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
