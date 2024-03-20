@@ -14,6 +14,16 @@
   </a>
 </p>
 
+<p align="center">
+  Ask Me!!!
+</p>
+
+<p align="center">
+  <a href="mailto:yusseno19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 ---
 
 <div align="center">
