@@ -5,7 +5,7 @@
 
 <br>
 <center>
-<a href ="#">
+<a href ="https://yusseno.github.io/portofolio-v2/">
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
