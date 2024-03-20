@@ -2,11 +2,16 @@
 #### <center> Software Engineer | Backend Developer | Frontend Developer | Development dan Operation </center>
 
 <center> I'm a software engineer who specializes in building and sometimes designing websites. </center>
+
+<br>
 <center>
-<a href="#">
-    <img src="png/devto.png" alt="dev.to" style="vertical-align:top; margin:6px 4px">
+<a href ="#">
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
 </a>
 </center>
+
 
 
 
